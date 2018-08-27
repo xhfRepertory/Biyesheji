@@ -42,6 +42,7 @@ public class Chaxunc extends Activity {
 	String chuanzhen[];
 	String web[];
 
+	String he;
 	SqlHelpdemo db;
 	int i = 0;
 	SQLiteDatabase sDatabase = null;
